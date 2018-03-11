@@ -79,7 +79,16 @@ void reset_screen();
 // ---- Colors ----
 extern const color_t COLOR_RED;
 extern const color_t COLOR_GREEN;
+extern const color_t COLOR_GREEND;
 extern const color_t COLOR_BLACK;
 extern const color_t COLOR_BACKGROUND;
+extern const color_t COLOR_BLUE;
+extern const color_t COLOR_BROWN;
+extern const color_t COLOR_GREY;
+extern const color_t COLOR_YELLOW;
+extern const color_t COLOR_DARKRED;
+extern const color_t COLOR_GOLD;
 
+// far point
+extern float far;
 #endif
